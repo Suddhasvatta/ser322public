@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company name="The Johns Hopkins University Applied Physics Laboratory"
+         shortName="JHU/APL"
+         mission="Enhancing national security through science and technology">
+  <head name="Richard Roca" phone="410-778-1234"/>
+  <department name="Air and Missile Defense"
+              mission="Enhance the operational capabilities of DoD systems that defend against high-performance cruise and ballistic missiles and threat aircraft">
+    <group name="A1E" numStaff="20"/>
+    <group name="A1F" numStaff="15"/>
+    <group name="A1G" numStaff="25"/>
+    <lab name="Ship Self-Defense System (SSDS) Laboratory">
+      This closed facility supports SSDS Mk 1 and Mk 2 Combat 
+      Systems used for air defense on several non-Aegis class 
+      ships.  The SSDS Laboratory is a simulated shipboard 
+      environment, with sensor simulation and hardware and 
+      software in the loop, which allows new technology or 
+      concepts to be tested.  Its uses include data reduction 
+      and analysis of at-sea tests and analysis of Trouble 
+      Reports from the SSDS fleet, along with development 
+      and testing of fixes.
+    </lab>
+    <lab name="System Concept and Performance Evaluation (SCOPE) Laboratory">
+      The SCOPE Laboratory is a closed area in which system concepts 
+      and designs for Ballistic Missile Defense are developed and 
+      analyzed.  Standard Missile-3 discrimination has been a 
+      primary focus.  The APL Defended Area Model (ADAM), the 
+      APL Concept Engagement Tool (ACENT), the Ballistic Missile 
+      Localization and Selection Tool (BLAST), and the APL 
+      Area/Theater Engagement Missile/Ship Simulation (ARTEMIS) 
+      and its versions were developed and are hosted in SCOPE.
+    </lab>
+    <lab name="Phased Array Radar Systems Engineering (PARSE) Facility">
+      The PARSE Laboratory is a secure computer facility used 
+      for radar or other RF propagation analysis and clutter 
+      analysis work.  PARSE facilitates system engineering and 
+      development work, live test support (through classified 
+      external communications), and software development and 
+      documentation.  It provides a handy, available classified 
+      environment and storage area for a wide range of Air and 
+      Missile Defense work. Generic RF propagation models are 
+      available for use by many programs throughout the business 
+      area.
+    </lab>
+    <lab name="System Concept Development Laboratory (SCDL) Facility">
+      SCDL is a cluster of facilities and communications 
+      interconnections with other internal and external 
+      facilities.  SCDL supports extensive system engineering 
+      modeling, simulation, and analysis.  SCDL provides 
+      networking of local models and computer simulations and 
+      provides a collaborative engineering focal point of 
+      interaction among various other facilities and test sites.  
+      Live data from at-sea tests are displayed and analyzed 
+      concurrent with the exercise.  The best models from various 
+      other facilities in the U.S. are combined at SCDL to 
+      provide the highest fidelity simulations.  These simulations 
+      evaluate designs by comparing simulation results to 
+      requirements, analyze design concepts and requirements, 
+      develop scenarios to test live systems or concepts, and 
+      provide hardware-in-the-loop participation in tests. The 
+      facility cluster includes an electronic war room, a test 
+      participation and data collection area, and a system 
+      element modeling and visualization area, along with 
+      computer and communication facilities.
+    </lab>
+    <lab name="Combat Systems Evaluation Laboratory (CSEL)">
+      The Combat Systems Evaluation Laboratory (CSEL) was 
+      established nearly 30 years ago to help develop the Aegis 
+      Combat System.  CSEL has since been used to prototype 
+      new systems, develop at-sea prototypes, and transition 
+      prototypes to industry.  CSEL is used to develop both 
+      hardware and software combat system command and control 
+      elements.  This laboratory provides the facilities to 
+      explore the hardware versus software trade space in the 
+      early design of a prototype system.  Extensive simulations 
+      and the ability to use secure real-time communications 
+      from the Fleet allow system test and evaluation in a 
+      near-real environment.  The performance of at-sea prototypes 
+      can be predicted and quickly evaluated with these 
+      capabilities.  Combat Information Center equipment, 
+      displays, and decision aids have often been the products 
+      of CSEL.
+    </lab>
+    <lab name="Advanced Missile Simulation and Evaluation Laboratory (AMSEL)">
+      AMSEL is a closed computing facility consisting of three 
+      locations linked by ethernet.  The facility provides the 
+      software and hardware resources to conduct performance 
+      assessments of defensive missiles and their associated 
+      weapon systems.  High fidelity six-degree-of-freedom 
+      missile simulations are generated as part of the weapon 
+      system performance evaluations.  The products of AMSEL 
+      often are concept analyses, system requirements, and 
+      pre-flight and post-flight missile test analyses.
+    </lab>
+  </department>
+  <department name="Research and Technology Development Center"
+              mission="Assure that JHU/APL has the technology base to solve critical problems.">
+    <group name="RSI" numStaff="15"/>
+    <group name="RSS" numStaff="10"/>
+    <lab name="Microbiological Analysis Laboratory">
+      The Microbiological Analysis Laboratory supports 
+      counterproliferation programs that involve biological 
+      agent detection. These programs use the Microbiological 
+      Analysis Laboratory?s capabilities in the growth, 
+      identification, quantification and analysis of bacteria, 
+      fungi and viruses. This laboratory is designed for 
+      evaluating environmental background collections, but 
+      it can also support a wide range of microbiological 
+      investigations. Technologies used in these investigations 
+      encompass biochemistry, mass spectrometry, microbiology, 
+      mycology, molecular biology, electronics, materials, 
+      information processing, biomedicine, and modeling and 
+      simulation.
+
+      The laboratory has extensive analysis tools and equipment 
+      needed for this work. For example, it contains a chemical 
+      hood; three biological safety cabinets; dual-atmosphere, 
+      cell-culture, and shaker-incubators; an autoclave; 
+      a refrigerator and a deep-freeze; a microbiological 
+      identification unit; a fluorescence microscope; an 
+      anaerobe chamber; a MALDI mass spectrometer; an 
+      electrophoresis system; a sterile water supply, a 
+      centrifuge, and much else. The laboratory is kept 
+      under negative pressure for biological containment, 
+      and all work surfaces and ceiling materials are 
+      impervious to liquids. Stringent safety protocols 
+      are used for the handling and disposal of biological 
+      material.
+    </lab>
+    <lab name="Quantum Optics Laboratory">
+      Basic research and development efforts in nonlinear 
+      optics at the two-photon level, quantum cryptography, 
+      quantum computing, and other nonclassical effects in 
+      quantum optics are conducted in the Quantum Optics 
+      Laboratory. The facility contains three large laser 
+      systems as well as a variety of optics, detectors, 
+      polarization elements, and fiber-optic devices. A fully 
+      operational prototype quantum communication system in 
+      the facility is capable of sending encoded messages 
+      between two computers through fiber-optic lines 
+      or free space. The security of these messages is 
+      absolutely guaranteed by basic laws of quantum physics. 
+      The facility is also equipped with a vacuum system 
+      for constructing atomic vapor cells needed for 
+      several areas involving fundamental interactions of 
+      light with atomic systems.
+    </lab>
+    <lab name="Securities Technology Institute Laboratories">
+      The Securities Technology Institute (STI) was established 
+      at APL in 1994 by the U.S. Department of the Treasury 
+      Bureau of Engraving and Printing (BEP) to develop 
+      advanced counterfeit deterrence technologies for future 
+      U.S. currency. The Institute?s Applications Laboratory 
+      was developed to investigate the utility and covert 
+      capacity of taggants (hidden features in the currency). 
+      The STI develops tags that incorporate special materials 
+      whose response can be stimulated and interrogated 
+      (to elicit a response) at high speeds by the inspection 
+      machines used by the Federal Reserve Bank. Developments in 
+      reprographic and other technologies that could threaten 
+      the security of U.S. currency are also monitored at the STI.
+    </lab>
+    <lab name="Avery Advanced Technology Development Laboratory (AATDL)">
+      The William H. Avery Advanced Technology Development 
+      Laboratory was originally built to perform altitude 
+      simulations for ramjet engine development and internal 
+      and external aerodynamic studies. Over the years, the 
+      diverse experiments performed there have included basic 
+      research on fuel penetration and mixing, 
+      shock-wave/boundary-layer interactions, component testing 
+      of inlets and combustors, and freejet tests of complete 
+      scramjet engines.
+
+      These capabilities also provide the infrastructure to 
+      perform research in a broad range of technologies related 
+      to submarine operations, space, fleet defense, and energy 
+      conversion. Examples include experiments on external 
+      aerodynamics, aerothermal/aero-optical sensor testing for 
+      hypersonic missiles, development of target vehicles for 
+      simulated Theater Ballistic Missile (TBM) intercepts, 
+      and development of an arc-fault detection system to 
+      provide protection in electrical switching cabinets on 
+      Navy nuclear submarines.
+      
+      The AATDL has facilities to conduct experimental work and 
+      testing of advanced systems, from conceptual design through 
+      engineering development, involving instrumentation, 
+      controls, high-speed data acquisition, combustion, fluid 
+      dynamics, heat transfer, energy conversion, power 
+      distribution, and mechanical structures.
+    </lab>
+  </department>
+</company>

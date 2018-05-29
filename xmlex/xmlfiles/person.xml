@@ -1,0 +1,19 @@
+<person>
+	<name>
+		<first>Bob</first>  <last>Smith</last>
+	</name>
+	<address location="home">
+		<street>123 East Elm</street>
+		<city>Boston</city>
+		<state>MA</state>
+		<zip>23130</zip>
+	</address>
+	<address location="work">
+	  <street>4 Jersey Street</street>
+	  <city>Boston</city>
+	  <state>MA</state>
+	  <zip>02215</zip>
+	</address>
+	<email primary="true">bob@yahoo.com</email>
+	<email primary="false">hacker@yahoo.com</email>
+</person>

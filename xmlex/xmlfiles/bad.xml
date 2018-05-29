@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  A test document. No DTD or Schema.  -->
+
+<company name="The Johns Hopkins University Applied Physics Laboratory"
+         shortName="JHU/APL"
+         mission="Enhancing national security through science and technology">
+  <head name="Richard Roca" phone="410-778-1234">
+  <department name="Air and Missile Defense"
+              mission="Enhance the operational capabilities of DoD systems that defend against high-performance cruise and ballistic missiles and threat aircraft">
+    <section name="A1E" numStaff="20"/>
+    <section name="A1F" numStaff="15"/>
+    <section name="A1G" numStaff="25"/>
+  </department>
+  <department name="Research and Technology Development Center"
+              mission="Assure that JHU/APL has the technology base to solve critical problems.">
+    <section name="RSI" numStaff="15"/>
+    <section name="RSS" numStaff="10"/>
+  </department>
+</company>

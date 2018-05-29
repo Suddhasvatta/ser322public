@@ -1,0 +1,18 @@
+A listing of the available databases for public use on swf1:
+
+company  - Used for Study Set SQL Queries 2 question 1. Created
+	   from company_schema.sql and company_instance.sql scripts.
+	   This corresponds to the database from the textbook.
+	   -- works with Apache Derby 10.13.1.1 1/5/17
+booktown - Used for Study Set SQL Queries 2 question 2. Created
+	   from the booktown_dump.sql script.
+exampledb1 - the course/professor example from the notes
+patient  - The Patient database schema. Used in our ER translation
+           example and also in Study Set DDL-DML 1 question 2.
+	   -- works with Apache Derby 10.13.1.1 1/5/17
+webpages - From Study Set DDL-DML 1 question 1.
+	   -- works with Apache Derby 10.13.1.1 1/5/17
+pga - a sample database loosely based on our PGA ER example db.
+	   -- works with Apache Derby 10.13.1.1 1/5/17
+studysetemp - A database used for Study Set SQL Queries 1.
+
